@@ -1,0 +1,2 @@
+cd C:\Users\Golda\eclipse-workspace\OpencartV121_Golda
+mvn test
